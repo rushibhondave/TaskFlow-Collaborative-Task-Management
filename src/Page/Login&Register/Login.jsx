@@ -1,5 +1,5 @@
 // src/pages/Login.jsx
-import '../Style/index.css'
+import '../../Style/index.css'
 import { useForm } from 'react-hook-form';
 
 export default function Login() {
