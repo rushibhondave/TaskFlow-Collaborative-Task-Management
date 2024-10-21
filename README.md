@@ -51,5 +51,5 @@ To set up TaskFlow locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/taskflow.git
+   git clone hhttps://github.com/rushibhondave/TaskFlow-Collaborative-Task-Management.git
    cd taskflow
